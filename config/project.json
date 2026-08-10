@@ -1,5 +1,5 @@
 {
-  "project_name": "CUMCM-Template",
+  "project_name": "Scrimmage3",
   "default_base": "main",
   "modules": [
     {
@@ -71,7 +71,7 @@
       "branch": "feature/q4",
       "path": "modules/50_q4",
       "task": "work/tasks/q4.md",
-      "active": true,
+      "active": false,
       "merge_order": 80
     },
     {
